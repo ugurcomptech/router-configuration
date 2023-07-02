@@ -13,7 +13,8 @@ Bu belge, bir router'ın nasıl yapılandırılacağını adım adım açıklama
 4. [Adım 3: Ağ Ayarlarının Test Edilmesi](#adım-3-ağ-ayarlarının-test-edilmesi)
 5. [Örnek IP Adresleri ve Router İletişimi](#örnek-ip-adresleri-ve-router-iletişimi)
 6. [Sonuç](#sonuç)
-7.[Lisans](#lisans)
+7. [Lisans](#lisans)
+
 
 ## Giriş
 
