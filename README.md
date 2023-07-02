@@ -14,6 +14,7 @@ Bu belge, bir router'ın nasıl yapılandırılacağını adım adım açıklama
 5. [Örnek IP Adresleri ve Router İletişimi](#örnek-ip-adresleri-ve-router-iletişimi)
 6. [Sonuç](#sonuç)
 7.[Lisans](#lisans)
+
 ## Giriş
 
 Bu belge, bir router'ın nasıl yapılandırılacağını adım adım açıklamaktadır. Herhangi bir router markası veya modeli kullanabilirsiniz, ancak örneklerde genel bir yaklaşım benimsenmiştir. İşte router'ın doğru bir şekilde yapılandırılması için izlenmesi gereken adımlar:
